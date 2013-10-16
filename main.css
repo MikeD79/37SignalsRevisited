@@ -144,6 +144,13 @@ body {
 .arrow {
 	position: absolute;
 }
-
+#High_Arrow, #Base_Arrow {
+	margin-left: 110px;
+	margin-top: -50px;
+}
+#Camp_Arrow {
+	margin-left: -20px;
+	margin-top: -50px;
+}
 
 
