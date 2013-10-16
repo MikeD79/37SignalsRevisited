@@ -1,0 +1,191 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* My work starts here */
+body {
+	min-width: 1024px;
+}
+.greeting {
+	float:left;
+	padding: 25px 40px;
+	font-family: Tahoma;
+	font-size: .75em;
+}
+.topnav {
+	float:right;
+}
+.topnav li{
+	display: inline-block;
+	padding: 10px;
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-size: .75em;
+	color: 	#00003D;
+	margin: 10px 5px;
+	text-decoration:none;
+}
+.topnav li a{
+	text-decoration: none;
+}
+.topnav #signin {
+	color: #3090C7;
+	padding-right: 10px;
+}
+
+.companylogo {
+	clear: right;
+	text-align: center;
+	padding-top: 12px;
+	margin-top: 10px;
+}
+.tagline {
+	font-size: 3.5em;
+	font-weight: 500;
+	text-align: center;
+	padding-top: 10px;
+	color:#34282C;
+}
+.tagline2 {
+	font-size: 1.25em;
+	font-family: "Arial";
+	text-align: center;
+	padding-top: 15px
+	color:#34282C;
+	margin-top: 10px
+	width: 600px;
+}
+.boxes {
+	text-align: center;
+	margin-top: 85px;
+}
+.products{
+	width: 170px;
+	height: 260px;
+	display: inline-block;
+	border-radius: 6px;
+  	border: 1px solid #f0f0f0;
+  	color: #000;
+  	background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+  	padding: 10px 10px 10px 10px;
+  	margin-right: 25px;
+}
+.productname {
+	margin-top: 5px;
+	font-family: "Arial";
+	font-size: 25px;
+	text-decoration: underline;
+	color: #336699;
+	padding-bottom: 10px
+}
+.productfunction {
+	color: red;
+	font-size: 17px;
+	font-weight: bold;
+	padding-bottom: 15px;
+	font-family: "Arial";
+}
+
+.productdescription {
+	font-size: 12px;
+	font-family: "Arial";
+}
+.productname sup{
+	display: inline-block;
+	font-size: 0.5em;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/gh-pages
+.productname sup {
+	display: inline-block;
+	font-size: 0.5em;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/gh-pages
+=======
+
+=======
+>>>>>>> origin/master
+>>>>>>> origin/gh-pages
+=======
+>>>>>>> d7a9d0492f7eed588b75bcfba30629011e177ffc
+=======
+#base_arrow, #high_arrow {
+	margin-left: 150px;
+	margin-top: -60px;
+}
+#camp_arrow {
+	margin-left: -30px;
+	margin-top: -60px;
+}
+.arrow {
+	position: absolute;
+	display: none;
+}
+>>>>>>> 869152299c18cdac14165ac718547ee1ce630699
+=======
+#base_arrow, #high_arrow {
+	margin-left: 150px;
+	margin-top: -60px;
+}
+#camp_arrow {
+	margin-left: -30px;
+	margin-top: -60px;
+}
+.arrow {
+	position: absolute;
+	display: none;
+}
+>>>>>>> 869152299c18cdac14165ac718547ee1ce630699
