@@ -141,6 +141,9 @@ body {
 	position: absolute;
 	display: none;
 }
-
+.bodycontent {
+	width: 600px
+	position: center;
+}
 
 
