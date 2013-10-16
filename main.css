@@ -82,9 +82,12 @@ body {
 	padding-top: 12px;
 	margin-top: 10px;
 }
-.bodycontent {
-	width: 600px
-	position: center;
+#id {
+text-align: center;
+width: 700px;
+}
+#id.product {
+	display: none;
 }
 .tagline {
 	font-size: 3.5em;
