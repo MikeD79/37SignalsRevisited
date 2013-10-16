@@ -82,11 +82,11 @@ body {
 	padding-top: 12px;
 	margin-top: 10px;
 }
-#id {
+#hero {
 text-align: center;
 width: 700px;
 }
-#id.product {
+#hero.product {
 	display: none;
 }
 .tagline {
