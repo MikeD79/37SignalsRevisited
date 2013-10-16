@@ -1,2 +1,3 @@
 $(document).ready(function(){
-      $("#bodycontent .bc").remove();
+      $("#bodycontent .bc").remove(
+  });
