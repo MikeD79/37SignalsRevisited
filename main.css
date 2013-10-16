@@ -137,16 +137,10 @@ body {
 	display: inline-block;
 	font-size: 0.5em;
 }
-#base_arrow, #high_arrow {
-	margin-left: 150px;
-	margin-top: -60px;
-}
-#camp_arrow {
-	margin-left: -30px;
-	margin-top: -60px;
-}
 .arrow {
 	position: absolute;
 	display: none;
 }
+
+
 
