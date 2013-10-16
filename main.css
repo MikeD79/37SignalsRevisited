@@ -82,6 +82,10 @@ body {
 	padding-top: 12px;
 	margin-top: 10px;
 }
+.bodycontent {
+	width: 600px
+	position: center;
+}
 .tagline {
 	font-size: 3.5em;
 	font-weight: 500;
@@ -139,11 +143,7 @@ body {
 }
 .arrow {
 	position: absolute;
-	display: none;
 }
-.bodycontent {
-	width: 600px
-	position: center;
-}
+
 
 
