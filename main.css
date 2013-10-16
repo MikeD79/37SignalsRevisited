@@ -137,31 +137,6 @@ body {
 	display: inline-block;
 	font-size: 0.5em;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/gh-pages
-.productname sup {
-	display: inline-block;
-	font-size: 0.5em;
-}
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/gh-pages
-=======
-
-=======
->>>>>>> origin/master
->>>>>>> origin/gh-pages
-=======
->>>>>>> d7a9d0492f7eed588b75bcfba30629011e177ffc
-=======
 #base_arrow, #high_arrow {
 	margin-left: 150px;
 	margin-top: -60px;
@@ -174,18 +149,4 @@ body {
 	position: absolute;
 	display: none;
 }
->>>>>>> 869152299c18cdac14165ac718547ee1ce630699
-=======
-#base_arrow, #high_arrow {
-	margin-left: 150px;
-	margin-top: -60px;
-}
-#camp_arrow {
-	margin-left: -30px;
-	margin-top: -60px;
-}
-.arrow {
-	position: absolute;
-	display: none;
-}
->>>>>>> 869152299c18cdac14165ac718547ee1ce630699
+
