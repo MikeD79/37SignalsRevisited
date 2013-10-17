@@ -11,21 +11,21 @@ $(document).ready(function(){
         $("#general").show();
     	});
     $("#Highrise").on("mouseenter",function() {
-        $("#bc, #Highrise .arrow").show();
+        $("#hr, #Highrise .arrow").show();
         $("#general").hide();
         });
 
     $("#Highrise").on("mouseleave", function() {
-    	$("#bc, #Highrise .arrow").hide();
+    	$("#hr, #Highrise .arrow").hide();
         $("#general").show();
     	});
     $("#Campfire").on("mouseenter",function() {
-        $("#bc, #Campfire .arrow").show();
+        $("#cf, #Campfire .arrow").show();
         $("#general").hide();
         });
 
     $("#Campfire").on("mouseleave", function() {
-    	$("#bc, #Campfire .arrow").hide();
+    	$("#cf, #Campfire .arrow").hide();
         $("#general").show();
     	});
   });
