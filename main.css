@@ -85,10 +85,7 @@ body {
 #hero {
 margin-left: auto;
 margin-right: auto;
-width: 700px;
-}
-.hidden {
-	display: none;
+width: 1000px;
 }
 .tagline {
 	font-size: 3.5em;
@@ -156,5 +153,3 @@ width: 700px;
 	margin-left: -20px;
 	margin-top: -50px;
 }
-
-
