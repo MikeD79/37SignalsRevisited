@@ -93,7 +93,7 @@ height: 163px;
 }
 .prodname {
 text-decoration:underline;
-color:#3366FF;
+color:##336699;
 }
 .tagline {
 	font-weight: 500;
@@ -109,6 +109,17 @@ color:#3366FF;
 	font-size: 20px;
 	font-weight: 500;
 	margin: 10px 0;
+}
+#hero>div:not(#general){
+	.tagline {
+		color: #222;
+		margin: 10px 0 15px 0;
+		font-size: 46px;
+		letter-spacing: -1px;
+			}
+	.tagline2 {
+		font-size: 15px;
+	}
 }
 .boxes {
 	text-align: center;
