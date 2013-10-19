@@ -81,12 +81,15 @@ body {
 	text-align: center;
 	padding-top: 12px;
 	margin-top: 10px;
+	height: 39;
+	width: 164;
 }
 #hero {
 margin-left: auto;
 margin-right: auto;
-width: 1100px;
-height: 170px;
+width: 825px;
+height: 163px;
+
 }
 .prodname {
 text-decoration:underline;
